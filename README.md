@@ -2,10 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/248741/103158666-c2c0b900-47f2-11eb-90c4-6b51c19d6922.png)
 
-## Work in progress
-
-Use [this](https://github.com/huukhai/hackintosh-rog-b550i), or [this](https://github.com/iam4x/hackintosh-rog-b550i) instead for the time being
-
 ## Specs
 
 | **Component** | **Model**                               |
@@ -20,8 +16,20 @@ Use [this](https://github.com/huukhai/hackintosh-rog-b550i), or [this](https://g
 | Storage       | Samsung 960 EVO 1TB (NVMe)              |
 | macOS         | Big Sur 11.0 / OpenCore 0.6.4           |
 
+## What works?
+
+- WiFi (Sometimes it does not connect at all, power cycle can fix it.)
+- Bluetooth : Tested with headphones, game controller
+- Handoff feature (Open Safari on iPad then logo pops up on Mac)
+- 3.5mm Audio input jack
+- Pretty much everything works, will add more to the list
+
+## What does not work?
+
+- Sidecar (Can connect but iPad screen stays black, can use its keyboard but cannot see anything. I use [Duet Display](https://www.duetdisplay.com) instead.)
+
 ## References
 
-- https://dortania.github.io/OpenCore-Install-Guide/
+- https://dortania.github.io/OpenCore-Install-Guide
 - https://github.com/huukhai/hackintosh-rog-b550i
 - https://github.com/iam4x/hackintosh-rog-b550i
