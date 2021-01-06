@@ -1851,7 +1851,7 @@
 				<key>Enabled</key>
 				<false/>
 				<key>Name</key>
-				<string>UEFI Shell</string>
+				<string>OpenShell</string>
 				<key>Path</key>
 				<string>OpenShell.efi</string>
 				<key>RealPath</key>
