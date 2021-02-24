@@ -6,7 +6,7 @@
 
 | **Component** | **Model**                               |
 | ------------- | --------------------------------------- |
-| CPU           | AMD Ryzen 5 5800X (19h)                 |
+| CPU           | AMD Ryzen 7 5800X (19h)                 |
 | Motherboard   | ASUS Rog Strix B550i Gaming             |
 | Audio Chipset | ALC-S1220A (Onboard)                    |
 | WiFi & BT     | Intel® Wi-Fi 6 AX200 (Onboard)          |
